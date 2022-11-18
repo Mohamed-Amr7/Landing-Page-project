@@ -11,4 +11,4 @@
 
 ## Sample Image
 
-![Sample Image](/asssets/Sample.png")
+![Sample Image](/asssets/Sample.png"Sample Image")
