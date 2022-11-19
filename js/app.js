@@ -40,7 +40,7 @@ document.addEventListener ("scroll" , () =>
     {
         let activeSec = navBar.querySelector(`[data-nav-id=${active.id}]`);
 
-        if(active.getBoundingClientRect().top >= -400 && active.getBoundingClientRect().top <= 150)
+        if(active.getBoundingClientRect().top >= -200 && active.getBoundingClientRect().top <= 200)
         {
         active.classList.add("active");
         activeSec.classList.add("active-sec");
